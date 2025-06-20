@@ -1,18 +1,24 @@
-# CeyCoir-Company
- 
+🏭 CeyCoir-Company
 📦 Project Overview
-This project was developed using the MERN stack (MongoDB, Express.js, React, and Node.js) to streamline the management of users and raw materials within the company. The system is structured around five key modules:
+CeyCoir-Company is a full-stack web application built using the powerful MERN stack —
+MongoDB, Express.js, React, and Node.js — to simplify and streamline business operations for a coir-based manufacturing company.
 
-User & Employee Management
+The system is modular and includes the following core features:
 
-Delivery & Order Management
+👥 User & Employee Management – Manage staff records, roles, and access.
 
-Product & Machinery Management
+🚚 Delivery & Order Management – Track orders, deliveries, and customer requests.
 
-Financial Management
+🏭 Product & Machinery Management – Oversee product info and machine usage.
 
-Warehouse Management
+💰 Financial Management – Handle budgets, transactions, and analytics.
+
+🏢 Warehouse Management – Monitor inventory and raw material flow.
 
 🔧 My Contribution
-I was responsible for the Product & Machinery Management module. All the work I contributed, including enhancements and bug fixes, can be found in the bugfix branch of the ITP repository in my GitHub.
-Feel free to check it out for more technical details.
+I was responsible for the Product & Machinery Management module.
+My contributions include developing core functionalities, resolving bugs, and enhancing the performance of this module.
+
+📂 You can find my full implementation and bug fixes in the bugfix branch of the ITP repository available on my GitHub.
+
+🔗 Explore the code and contributions: Visit the repo
